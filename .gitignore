@@ -1,0 +1,17 @@
+node_modules/
+**/dist/
+**/release/
+**/out/
+**/build/
+*.dmg
+*.zip
+*.asar
+*.app
+.DS_Store
+**/release/
+**/dist/
+**/build/
+*.dmg
+*.zip
+*.asar
+*.app
